@@ -14,8 +14,8 @@
 		}
 	},
 	"header": {
-		"name": "Reach Flag",
-		"description": "Reach flag system to detect potential reach hacks",
+		"name": "Prestige Server features",
+		"description": "Prestige server features for a kitpvp server",
 		"min_engine_version": [
 			1,
 			21,
